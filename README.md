@@ -18,7 +18,7 @@ Dmoney_API_Testing
 
 - #### 05 npm install/ npm i or yarn install
 
-- #### 06 npx newman run .collection/assignment-api.json
+- #### 06 npx newman run .collection/DmoneyUsers_collection.json
 
 - #### 07 npm test or yarn test
 
