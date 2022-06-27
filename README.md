@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # DmoneyUsers_API_TestingUsing_Postman
 Dmoney_API_Testing
 ### **Assignment API testing with Postman**
@@ -26,4 +24,3 @@ Dmoney_API_Testing
 
 - #### **Reports Preview Below**
 <img width="421" alt="collectionreports_01" src="https://user-images.githubusercontent.com/105572903/176023638-96f1117d-011e-4fa5-a7b8-f425c442c77c.png">
->>>>>>> b56832af6f95a18bb67dc3c6d8c5ac817a0457a8
