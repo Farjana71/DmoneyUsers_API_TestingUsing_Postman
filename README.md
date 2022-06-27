@@ -24,5 +24,5 @@ Dmoney_API_Testing
 
 - #### **Reports Preview Below**
 
-![Reports Preview](<img width="421" alt="collectionreports_01" src="https://user-images.githubusercontent.com/105572903/176020276-3279376e-ed68-44b3-a3af-17bb2a0a14bd.png">)
+![Reports Preview](.collectionreports_01.png)
 
