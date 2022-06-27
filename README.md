@@ -23,5 +23,4 @@ Dmoney_API_Testing
 - #### 07 npm test or yarn test
 
 - #### **Reports Preview Below**
-
-![Reports Preview](<img width="421" alt="collectionreports_01" src="https://user-images.githubusercontent.com/105572903/176023430-ef683808-74bd-44df-90ab-68e6afab62f1.png">)
+<img width="421" alt="collectionreports_01" src="https://user-images.githubusercontent.com/105572903/176023638-96f1117d-011e-4fa5-a7b8-f425c442c77c.png">
